@@ -35,6 +35,7 @@ print(wr.__version__)
 
 **Following is what you need for this book:**
 This book is for data engineers, data scientists, and business data analysts looking to explore the capabilities, tools, and services of data wrangling on AWS for their ETL tasks. Basic knowledge of Python, Pandas, and a familiarity with AWS tools such as AWS Glue, Amazon Athena is required to get the most out of this book.	
+
 With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
