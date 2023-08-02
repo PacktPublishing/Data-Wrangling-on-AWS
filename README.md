@@ -1,8 +1,8 @@
 # Data Wrangling on AWS
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Data Wrangling on AWS" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/data-wrangling-on-aws/9781801810906"><img src="https://content.packt.com/B17801/cover_image_small.jpg" alt="Data Wrangling on AWS" height="256px" align="right"></a>
 
-This is the code repository for [Data Wrangling on AWS](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Data Wrangling on AWS](https://www.packtpub.com/product/data-wrangling-on-aws/9781801810906), published by Packt.
 
 **Clean and organize complex data for analysis**
 
