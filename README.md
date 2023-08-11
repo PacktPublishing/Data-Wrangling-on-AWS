@@ -49,7 +49,7 @@ With the following software and hardware list you can run all code files present
 
 * Serverless Analytics with Amazon Athena [[Packt]](https://www.packtpub.com/product/serverless-analytics-with-amazon-athena/9781800562349) [[Amazon]](https://www.amazon.in/Serverless-Analytics-Amazon-Athena-semi-structured/dp/1800562349)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **Navnit Shukla**  is an accomplished Senior Solution Architect with a specialization in AWS analytics.With an impressive career spanning 12 years, he has honed his expertise in databases and analytics, establishing himself as a trusted professional in the field. Currently based in Orange County, CA, Navnit's primary responsibility lies in assisting customers in building scalable, cost-effective, and secure data platforms on the AWS cloud.
 
 **Sankar Sundaram**  has been working in IT Industry since 2007, specializing in databases, data warehouses, analytics space for many years. As a specialized Data Architect, he helps customers build and modernize data architectures and help them build secure, scalable, and performant data lake, database, and data warehouse solutions. Prior to joining AWS, he has worked with multiple customers in implementing complex data architectures.
